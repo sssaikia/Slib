@@ -1,2 +1,1 @@
-[![Release](https://jitpack.io/v/sssaikia/Slib.svg)]
-(https://jitpack.io/#sssaikia/Slib)
+![Release](https://jitpack.io/v/sssaikia/Slib.svg)
